@@ -4,7 +4,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Overview
 
-### Screenshot
+### Design Screenshot
+
+![desktop-preview](https://user-images.githubusercontent.com/93631986/230816515-f281db49-0565-4081-a594-73a8d2c1a81f.jpg)
 
 ### Links
 
